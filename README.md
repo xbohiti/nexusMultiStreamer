@@ -24,7 +24,7 @@ This guide covers buying, installing, and using the app.
 
 Buy a license from the official store page:
 
-**https://rmunexus.xyz/programs/multistreamer**
+**https://rmu.nexus/programs/multistreamer**
 
 After checkout you'll receive a license key by email. Keys look like this:
 
@@ -38,12 +38,14 @@ Your key can be activated on **up to three computers**. Reinstalling on a PC you
 
 ## 2. Download and install
 
-1. Download the installer from the store page you purchased from. The file is named **`NexusMulti-Streamer_Setup-<version>.exe`** (for example `NexusMulti-Streamer_Setup-1.3.2.exe`).
+1. Download the installer — either from the store page or directly from the [Releases page](https://github.com/xbohiti/nexusMultiStreamer/releases/latest). The file is named **`NexusMulti-Streamer_Setup-<version>.exe`** (for example `NexusMulti-Streamer_Setup-1.3.10.exe`).
 2. Double-click the installer.
 3. Choose **Install for me only** (recommended) or install for all users, and pick a folder if you like. The default is fine.
 4. Follow the prompts. Setup adds shortcuts to your **Desktop** and **Start menu**.
 
-> **Windows may show "Windows protected your PC."** This appears because the installer isn't code-signed yet. Click **More info → Run anyway** to continue. The app is safe — you downloaded it from the official RMU Nexus site.
+> **Downloading is free.** The app asks for your license key the first time you open it (section 3), so you can install now and enter the key whenever you're ready.
+
+> **Windows may show "Windows protected your PC."** This appears because the installer isn't code-signed yet. Click **More info → Run anyway** to continue. The app is safe — you downloaded it from the official RMU Nexus site or repository.
 
 ---
 
@@ -243,7 +245,7 @@ Your recordings are **not** deleted — they stay in the folder you chose. If yo
 ## Support
 
 - **Email:** contact@rmunexus.xyz
-- **Store page:** https://rmunexus.xyz/programs/multistreamer
+- **Store page:** https://rmu.nexus/programs/multistreamer
 - **Lost your license key?** Email support from the address you purchased with.
 
 Please include your app version (shown in Windows **Settings → Apps → Installed apps**) and any relevant log lines when contacting support.
