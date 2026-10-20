@@ -24,7 +24,7 @@ This guide covers buying, installing, and using the app.
 
 Buy a license from the official store page:
 
-**https://rmu.nexus/programs/multistreamer**
+**https://rmunexus.xyz/programs/multistreamer**
 
 After checkout you'll receive a license key by email. Keys look like this:
 
@@ -32,13 +32,13 @@ After checkout you'll receive a license key by email. Keys look like this:
 NXMS-XXXX-XXXX-XXXX
 ```
 
-Your key can be activated on **up to three computers**. Reinstalling on a PC you've already activated doesn't use an extra slot. Keep the email — you'll need the key the first time you open the app, and if you ever need to free up a slot, contact support.
+Your key can be activated on **up to three computers**. You only enter the key **once per PC** — after that the app stays activated, and reinstalling on a PC you've already activated doesn't use an extra slot. Keep the email in case you need the key on a new computer, and if you ever need to free up a slot, contact support.
 
 ---
 
 ## 2. Download and install
 
-1. Download the installer — either from the store page or directly from the [Releases page](https://github.com/xbohiti/nexusMultiStreamer/releases/latest). The file is named **`NexusMulti-Streamer_Setup-<version>.exe`** (for example `NexusMulti-Streamer_Setup-1.3.10.exe`).
+1. Download the installer — either from the store page or directly from the [Releases page](https://github.com/xbohiti/nexusMultiStreamer/releases/latest). The file is named **`NexusMulti-Streamer_Setup-<version>.exe`** (for example `NexusMulti-Streamer_Setup-1.3.14.exe`).
 2. Double-click the installer.
 3. Choose **Install for me only** (recommended) or install for all users, and pick a folder if you like. The default is fine.
 4. Follow the prompts. Setup adds shortcuts to your **Desktop** and **Start menu**.
@@ -245,7 +245,7 @@ Your recordings are **not** deleted — they stay in the folder you chose. If yo
 ## Support
 
 - **Email:** contact@rmunexus.xyz
-- **Store page:** https://rmu.nexus/programs/multistreamer
+- **Store page:** https://rmunexus.xyz/programs/multistreamer
 - **Lost your license key?** Email support from the address you purchased with.
 
 Please include your app version (shown in Windows **Settings → Apps → Installed apps**) and any relevant log lines when contacting support.
