@@ -14,7 +14,7 @@ This guide covers buying, installing, and using the app.
 - **OBS Studio** (free — [obsproject.com](https://obsproject.com))
 - An internet connection
 - Accounts on the platforms you want to stream to
-- About **350 MB** of free disk space for the app, plus room for recordings (roughly 1–2 GB per hour of stream, depending on your OBS settings)
+- About **80 MB** of free disk space for the app, plus room for recordings (roughly 1–2 GB per hour of stream, depending on your OBS settings)
 
 > Streaming to several platforms at once uses upload bandwidth. As a rule of thumb, allow about **6 Mbps of upload per destination** on top of what your OBS bitrate already uses.
 
